@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrainingTwitter</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_apps">About</string>
+    <string name="new_tweet">New Tweet</string>
+    
+</resources>
